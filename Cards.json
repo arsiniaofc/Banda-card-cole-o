@@ -1,5 +1,22 @@
 [
   {
+    "id": "CARD_006",
+    "name": "Misacura",
+    "rarity": "Normal",
+    "imageName": "5.png",
+    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/5.png",
+    "categorizedAt": "2026-06-22T22:36:05.760Z"
+  },
+  {
+    "id": "CARD_005",
+    "name": "Havi",
+    "rarity": "Normal",
+    "imageName": " 6.png",
+    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%206.png",
+    "collectionId": "COL_3PD7AI01S",
+    "categorizedAt": "2026-06-22T22:35:45.624Z"
+  },
+  {
     "id": "CARD_004",
     "name": "Sim é o Applesauce basquete",
     "rarity": "Raro",
