@@ -1,1 +1,38 @@
-
+[
+  {
+    "id": "CARD_004",
+    "name": "Sim é o Applesauce basquete",
+    "rarity": "Raro",
+    "imageName": " 4.png",
+    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%204.png",
+    "collectionId": "COL_WP98OGXZ7",
+    "categorizedAt": "2026-06-22T22:28:39.153Z"
+  },
+  {
+    "id": "CARD_003",
+    "name": "Cry e Kaka assistindo!",
+    "rarity": "Raro",
+    "imageName": " 2.png",
+    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%202.png",
+    "categorizedAt": "2026-06-22T22:16:41.996Z",
+    "collectionId": "COL_WP98OGXZ7"
+  },
+  {
+    "id": "CARD_002",
+    "name": "Wali jogador",
+    "rarity": "Raro",
+    "imageName": " 3.png",
+    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%203.png",
+    "categorizedAt": "2026-06-22T22:16:34.573Z",
+    "collectionId": "COL_WP98OGXZ7"
+  },
+  {
+    "id": "CARD_001",
+    "name": "Havi e Misa jogando!",
+    "rarity": "Raro",
+    "imageName": " 1.png",
+    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%201.png",
+    "categorizedAt": "2026-06-22T22:16:32.508Z",
+    "collectionId": "COL_WP98OGXZ7"
+  }
+]
