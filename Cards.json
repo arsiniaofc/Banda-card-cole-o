@@ -1,55 +1,72 @@
-[
-  {
-    "id": "CARD_006",
-    "name": "Misacura",
-    "rarity": "Normal",
-    "imageName": "5.png",
-    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/5.png",
-    "categorizedAt": "2026-06-22T22:36:05.760Z"
-  },
-  {
-    "id": "CARD_005",
-    "name": "Havi",
-    "rarity": "Normal",
-    "imageName": " 6.png",
-    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%206.png",
-    "collectionId": "COL_3PD7AI01S",
-    "categorizedAt": "2026-06-22T22:35:45.624Z"
-  },
-  {
-    "id": "CARD_004",
-    "name": "Sim é o Applesauce basquete",
-    "rarity": "Raro",
-    "imageName": " 4.png",
-    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%204.png",
-    "collectionId": "COL_WP98OGXZ7",
-    "categorizedAt": "2026-06-22T22:28:39.153Z"
-  },
-  {
-    "id": "CARD_003",
-    "name": "Cry e Kaka assistindo!",
-    "rarity": "Raro",
-    "imageName": " 2.png",
-    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%202.png",
-    "categorizedAt": "2026-06-22T22:16:41.996Z",
-    "collectionId": "COL_WP98OGXZ7"
-  },
-  {
-    "id": "CARD_002",
-    "name": "Wali jogador",
-    "rarity": "Raro",
-    "imageName": " 3.png",
-    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%203.png",
-    "categorizedAt": "2026-06-22T22:16:34.573Z",
-    "collectionId": "COL_WP98OGXZ7"
-  },
-  {
-    "id": "CARD_001",
-    "name": "Havi e Misa jogando!",
-    "rarity": "Raro",
-    "imageName": " 1.png",
-    "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%201.png",
-    "categorizedAt": "2026-06-22T22:16:32.508Z",
-    "collectionId": "COL_WP98OGXZ7"
-  }
-]
+{
+  "cards": [
+    {
+      "id": "CARD_006",
+      "name": "Misacura",
+      "rarity": "Normal",
+      "imageName": "5.png",
+      "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/5.png",
+      "categorizedAt": "2026-06-22T22:36:05.760Z",
+      "collectionId": "Banda"
+    },
+    {
+      "id": "CARD_005",
+      "name": "Havi",
+      "rarity": "Normal",
+      "imageName": " 6.png",
+      "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%206.png",
+      "collectionId": "Banda",
+      "categorizedAt": "2026-06-22T22:35:45.624Z"
+    },
+    {
+      "id": "CARD_004",
+      "name": "Sim é o Applesauce basquete",
+      "rarity": "Raro",
+      "imageName": " 4.png",
+      "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%204.png",
+      "collectionId": "Banda Basquete",
+      "categorizedAt": "2026-06-22T22:28:39.153Z"
+    },
+    {
+      "id": "CARD_003",
+      "name": "Cry e Kaka assistindo!",
+      "rarity": "Raro",
+      "imageName": " 2.png",
+      "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%202.png",
+      "categorizedAt": "2026-06-22T22:16:41.996Z",
+      "collectionId": "Banda Basquete"
+    },
+    {
+      "id": "CARD_002",
+      "name": "Wali jogador",
+      "rarity": "Raro",
+      "imageName": " 3.png",
+      "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%203.png",
+      "categorizedAt": "2026-06-22T22:16:34.573Z",
+      "collectionId": "Banda Basquete"
+    },
+    {
+      "id": "CARD_001",
+      "name": "Havi e Misa jogando!",
+      "rarity": "Raro",
+      "imageName": " 1.png",
+      "imageUrl": "https://raw.githubusercontent.com/arsiniaofc/Banda-card-cole-o/main/Pngs/%201.png",
+      "categorizedAt": "2026-06-22T22:16:32.508Z",
+      "collectionId": "Banda Basquete"
+    }
+  ],
+  "collections": [
+    {
+      "id": "Banda",
+      "name": "Banda",
+      "tagColor": "#ec4899",
+      "createdAt": "2026-06-22T23:19:42.798Z"
+    },
+    {
+      "id": "Banda Basquete",
+      "name": "Banda Basquete",
+      "tagColor": "#f59e0b",
+      "createdAt": "2026-06-22T23:20:11.876Z"
+    }
+  ]
+}
